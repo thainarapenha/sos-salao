@@ -73,3 +73,6 @@ if ( is_singular() ) {
 	</div><!-- .entry-header-inner -->
 
 </header><!-- .entry-header -->
+<div style="width: 300px; background-color: red;">
+		<span>TESTE TESTE TESTE</span>
+</div>
