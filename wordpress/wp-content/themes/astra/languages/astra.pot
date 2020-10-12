@@ -1596,7 +1596,7 @@ msgid "Your comment is awaiting moderation."
 msgstr ""
 
 #: inc/core/class-theme-strings.php:53 inc/core/class-theme-strings.php:68
-msgid "Leave a Comment"
+msgid "Deixe seu comentário"
 msgstr ""
 
 #: inc/core/class-theme-strings.php:54
@@ -1604,11 +1604,11 @@ msgid "Cancel Reply"
 msgstr ""
 
 #: inc/core/class-theme-strings.php:55
-msgid "Post Comment &raquo;"
+msgid "Postar Comentário &raquo;"
 msgstr ""
 
 #: inc/core/class-theme-strings.php:56
-msgid "Type here.."
+msgid "Digite aqui.."
 msgstr ""
 
 #: inc/core/class-theme-strings.php:57
