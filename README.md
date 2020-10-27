@@ -52,7 +52,7 @@ Fim :)
   Escopo (30 de setembro – 02 de outubro): Nesta primeira etapa escolhemos qual tema trabalhar, de acordo com os temas do trabalho 2, e como iríamos implementá-lo. Realizamos pesquisas sobre o site vitrine e atendimentos nos salões de beleza.
 
 ### Segunda etapa
-  Levantamento de requisitos, Escopo e Modelagem (03 – 06 de outubro): Foi discutido sobre as pesquisas feitas, tanto teóricas e de referência, quanto com usuário a respeito dos valores de seus serviços, dificuldades e necessidades. Com tais informações, Iniciou-se a modelagem UML e posteriormente a estruturação do site com sua conexão com o GitHub.
+  Levantamento de requisitos, Escopo e Modelagem (03 – 06 de outubro): Foi discutido sobre as pesquisas feitas, tanto teóricas e de referência, quanto com usuário a respeito dos valores de seus serviços, dificuldades e necessidades. Com tais informações, iniciou-se a modelagem UML e posteriormente a estruturação do site com sua conexão com o GitHub.
 
 ### Terceira etapa
   Implementação (07 – 13 de outubro): Não fomos autorizados a utilizar os nomes reais dos salões, portanto foram criados salões fictícios que compõem o site, definindo seus preços e serviços, de acordo com as informações reais que foram levantadas, como citado anteriormente. O site continuou sendo ajustado e conectado ao banco de dados.
@@ -61,5 +61,5 @@ Fim :)
   Implementação (14 – 20 de outubro): Os salões foram incluídos, o site foi finalizado e a comunicação com o banco de dados foi ajustada com as modificações que estavam pendentes. Nesse mesmo período foram feitas novas validações com o usuário e seus feedbacks recolhidos.
 
 ### Quinta etapa
-  Documentação: (21 – 27 de outubro): A equipe se reuniu 3 vezes dentro desse período para alinhamento de conteúdo. Levantamos atividades que ainda estavam pendentes para serem concluídas. Houve a criação deste relatório, slide de apresentação e uma pequena aiteração na logo do site.
+  Documentação: (21 – 27 de outubro): A equipe se reuniu 3 vezes dentro desse período para alinhamento de conteúdo. Levantamos atividades que ainda estavam pendentes para serem concluídas. Houve a criação deste relatório, slide de apresentação e uma pequena alteração na logo do site.
 
