@@ -15,7 +15,7 @@ A proposta desse site foi feita a partir de pesquisas e estudos realizados sobre
 
 [------------------------------------------------]
 
-### Passos necessários para o funcionamento deste projeto
+### Passos necessários para o funcionamento deste projeto 
 
 ### [PASSOS INICIAIS]
 
